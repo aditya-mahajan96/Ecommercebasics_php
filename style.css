@@ -1,0 +1,57 @@
+body {
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+td {
+    color: rgb(22, 22, 22);
+}
+
+h1 {
+    color: rgb(15, 15, 15);
+}
+
+
+
+.form {
+    background-color: #15172b;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+    width: 4000px;
+}
+
+span {
+    color: orange;
+}
+header {
+    background-color: #FF6500; 
+    padding: 10px; 
+    text-align: center; 
+    bottom: 0; 
+    width: 100%; 
+    
+}
+header h1{
+    color: #ffffff;
+}
+
+footer h4{
+    color: #ffffff;
+}
+
+.container h2{
+    text-align: center;
+    color: #1E3E62;
+}
+footer {
+    margin-top: 170px;
+    background-color: #FF6500; 
+    padding: 10px; 
+    text-align: center; 
+    position: relative;
+    bottom: 0; 
+    width: 100%; 
+}
